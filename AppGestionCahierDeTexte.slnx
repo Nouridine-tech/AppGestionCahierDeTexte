@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Éléments de solution/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="AppGestionCahierDeTexte/AppGestionCahierDeTexte.csproj" Id="1a5f884e-bdcc-4bd7-bb02-078f3d3e494f" />
+</Solution>
